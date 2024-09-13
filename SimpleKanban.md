@@ -1,4 +1,4 @@
-# Simple Kanban strukture
+# Simple Kanban strukture for software development
 ```
 ┌───────────────┐    ┌───────────────┐    ┌───────────────┐    ┌───────────────┐    ┌───────────────┐
 │      OPEN     │ -> │      TODO     │ -> │  IN PROGRESS  │ -> │   IN REVIEW   │ -> │     CLOSED    │
@@ -20,6 +20,6 @@ Tickets that are finished and waiting to be reviewed. If it doesn't get approved
 **DONE** \
 These tickets have been finished and approved or been closed on another way.
 
-# EPICS
-# STORIES
-# TASKS
+## EPICS
+## STORIES
+## TASKS
