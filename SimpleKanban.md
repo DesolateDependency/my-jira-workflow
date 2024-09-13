@@ -1,4 +1,4 @@
-# Simple Kanban strukture for software development
+## Simple Kanban strukture for software development
 ```
 ┌───────────────┐    ┌───────────────┐    ┌───────────────┐    ┌───────────────┐    ┌───────────────┐
 │      OPEN     │ -> │      TODO     │ -> │  IN PROGRESS  │ -> │   IN REVIEW   │ -> │     CLOSED    │
